@@ -1,5 +1,3 @@
-# microservice-test
-
 ## RUN Server
 ```sh
 $ cd server
